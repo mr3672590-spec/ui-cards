@@ -45,8 +45,8 @@ body{
 }
 .image{
     position: relative;
-    height: 160px;
-    width: 160px;
+    height: 150px;
+    width: 150px;
     border-radius: 50%;
     background-color: #4070f4;
     padding: 3px;
